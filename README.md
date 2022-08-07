@@ -1,9 +1,14 @@
-### Olá devs! Me chamo Vinicius!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+
+### Olá devs, me chamo Vinicius!
 
 - 🔭 Atualmente trabalho com Java, Python, SFDC e JS
 - 🌱 Atualmente estou aprendendo JS (Node) e React
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnilmg&layout=compact)](https://github.com/vinnilmg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnilmg&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos:
 
