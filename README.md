@@ -4,8 +4,8 @@
 
 ### Olá devs, me chamo Vinicius!
 
-- 🔭 Atualmente trabalho com Java, Python, SFDC e JS
-- 🌱 Atualmente estou aprendendo JS (Node) e React
+- 🔭 Atualmente trabalho com Java, Python, JavaScript e também com a plataforma Salesforce
+- 🌱 Atualmente estou aprendendo JavaScript, React e aprimorando conhecimento na plataforma Salesforce (LWC, Apex, Aura e etc)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnilmg&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
