@@ -6,7 +6,7 @@
 - 🔭 Atualmente trabalho com Java, Python, SFDC e JS
 - 🌱 Atualmente estou aprendendo JS (Node) e React
 
-*[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnilmg&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)*
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnilmg&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### Contatos:
 
